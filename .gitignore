@@ -1,0 +1,6 @@
+# virtual environment
+venv/
+# IDE
+.vscode/
+# dev notes
+sa_notes*
